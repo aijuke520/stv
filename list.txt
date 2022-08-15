@@ -4600,6 +4600,9 @@ YY音乐好歌不断,http://mmitv.top/pltv/yy.php?id=54880976
 ===========,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313341682455.mp4 
 
 测试_2022,#genre# 
+松視1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+松視2,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
+松視3,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
 潘朵拉完美台,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
 驚豔台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
 HAPPY,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
@@ -4610,13 +4613,23 @@ HAPPY,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 彩虹电影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
 LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 香草天道,mitv://fccs.word-tv.com:9906/626b730a000f13ab0c686433a4aa22a5
-ＶＥＮＵＳ ,mitv://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
-奶奶按摩店 ,mitv://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
-人妻不倫 ,mitv://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
-彩虹通道 ,mitv://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
-午夜蓝 ,mitv://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
-做愛輸入 ,mitv://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e0110
-松視1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+ＶＥＮＵS,mitv://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
+东京不太热,mitv://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
+东京太热,mitv://fccs.word-tv.com:9906/626b7343000190970c693f6577f8facb
+日本不热,mitv://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
+彩虹通道,mitv://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
+午夜蓝,mitv://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
+一本道,mitv://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e0110
+二本道,mitv://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
+三本道,mitv://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
+四本道,mitv://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
+五本道,mitv://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
+PLAYBOY HD,mitv://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
+KMP 頻道,mitv://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
+潘朵拉粉紅,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
+HOT,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
+香蕉台,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
+K頻道,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
 
 关于软件,#genre# 
 STV直播提醒您：,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vd2ViL3NoYXJlP2NvZGU9bnllUWJ5WlYzWVJq.mp4
