@@ -9,6 +9,11 @@
 ①群1082599899,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vd2ViL3NoYXJlP2NvZGU9WnJ1SWZhcWlVTm51.mp4
 ②群1082332055,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vd2ViL3NoYXJlP2NvZGU9TWJZWlp2ZmVVM0li.mp4
 ============,https://link.jscdn.cn/189/aHR0cHM6Ly9jbG91ZC4xODkuY24vd2ViL3NoYXJlP2NvZGU9WVozQXZxcU1GenFx.mp4
+八大第一台,zlive://173.208.209.114:7719/16532d6baa2cd3375a2e0efa49e57a11
+八大综合台,zlive://173.208.209.114:7719/77e95a5b0ea2b9a637127341d02cf310
+三立台湾台,zlive://173.208.209.114:7719/e5ebd666b27b0eacc614b2da9010dea4
+三立都会台,zlive://173.208.209.114:7719/dbe6cc6e993a17df8d02ccd1eb841f12
+衛视中文台,zlive://173.208.209.114:7719/855f73b2f984473734b18de3f9ce4817
 
 央视频道,#genre#
 
