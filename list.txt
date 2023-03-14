@@ -2,7 +2,7 @@
 欢迎使用STV,https://189.ly93.cc/b2q2qyY77neq/62375155036049829?accessCode=7sqx&accessToken=C0132FE0EF60105EECD170BDB9539212
 ===========,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313341682455.mp4 
 频道更新时间,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313689895693.mp4 
-2023年03月13日,https://189.ly93.cc/RZfY7rqQRvmy/41382113495457932?accessToken=C0132FE0EF60105EECD170BDB9539212
+2023年03月14日,https://189.ly93.cc/RZfY7rqQRvmy/41382113495457932?accessToken=C0132FE0EF60105EECD170BDB9539212
 资源均来自网络,https://189.ly93.cc/N7Bbiq6RVjY3/21396113487660887?accessToken=C0132FE0EF60105EECD170BDB9539212
 请勿作商业用途,https://189.ly93.cc/nyeQbyZV3YRj/31414213391406980?accessToken=C0132FE0EF60105EECD170BDB9539212
 可以加入交流群,https://189.ly93.cc/aaemEnvA7NJn/21396113487660674?accessToken=C0132FE0EF60105EECD170BDB9539212
@@ -390,6 +390,17 @@ CETV-2,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227206/in
 CETV-1,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227067/index.m3u8
 CETV-1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227067/index.m3u8?servicetype=1
 CETV-1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
+风云音乐,http://59.32.98.226:9901/tsfile/live/1047_1.m3u8
+风云足球,http://59.32.98.226:9901/tsfile/live/1048_1.m3u8
+第一剧场,http://59.32.98.226:9901/tsfile/live/1049_1.m3u8
+风云剧场,http://59.32.98.226:9901/tsfile/live/1050_1.m3u8
+电视指南,http://59.32.98.226:9901/tsfile/live/1051_1.m3u8
+世界地理,http://59.32.98.226:9901/tsfile/live/1052_1.m3u8
+文化精品,http://59.32.98.226:9901/tsfile/live/1053_1.m3u8
+央视台球,http://59.32.98.226:9901/tsfile/live/1055_1.m3u8
+中国天气,http://59.32.98.226:9901/tsfile/live/1061_1.m3u8
+中华美食,http://59.32.98.226:9901/tsfile/live/1062_1.m3u8
+中国交通,http://59.32.98.226:9901/tsfile/live/1063_1.m3u8
 
 
 ▣卫视频道▣,#genre#
@@ -1281,6 +1292,7 @@ Spacetoon(外),https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/p
 CCTV-5,http://39.135.138.59:18890/PLTV/88888910/224/3221225755/index.m3u8
 CCTV-5,http://39.135.138.59:18890/PLTV/88888910/224/3221225756/index.m3u8
 CCTV-5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
+广东体育,http://59.32.98.226:9901/tsfile/live/1001_1.m3u8
 广东体育,http://120.84.96.28:808/hls/22/index.m3u8
 精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
@@ -3456,6 +3468,8 @@ yo,http://aldirect.corp-hls.huya.com/src/1629196790-1629196790-69973469317981798
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+翡翠台,http://59.32.98.226:9901/tsfile/live/1029_1.m3u8
+明珠台,http://59.32.98.226:9901/tsfile/live/1014_1.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://120.84.96.28:808/hls/25/index.m3u8
 翡翠台,http://27.36.62.163:9090/live/xgfeicui.m3u8
@@ -5276,6 +5290,50 @@ JYTV 新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u
 
 
 ▣广东频道▣,#genre#
+广东体育,http://59.32.98.226:9901/tsfile/live/1001_1.m3u8
+广东新闻.576,http://59.32.98.226:9901/tsfile/live/1002_1.m3u8
+广东民生.576,http://59.32.98.226:9901/tsfile/live/1003_1.m3u8
+大湾区卫视,http://59.32.98.226:9901/tsfile/live/1004_1.m3u8
+云南卫视,http://59.32.98.226:9901/tsfile/live/1005_1.m3u8
+珠海1,http://59.32.98.226:9901/tsfile/live/1006_1.m3u8
+岭南戏曲.576,http://59.32.98.226:9901/tsfile/live/1007_1.m3u8
+广东现代教育.576,http://59.32.98.226:9901/tsfile/live/1008_1.m3u8
+揭阳综合.576,http://59.32.98.226:9901/tsfile/live/1010_1.m3u8
+广东影视,http://59.32.98.226:9901/tsfile/live/1017_1.m3u8
+河源综合,http://59.32.98.226:9901/tsfile/live/1019_1.m3u8
+汕头综合,http://59.32.98.226:9901/tsfile/live/1021_1.m3u8
+肇庆综合,http://59.32.98.226:9901/tsfile/live/1022_1.m3u8
+梅州大埔1,http://59.32.98.226:9901/tsfile/live/1023_1.m3u8
+韶关新闻综合,http://59.32.98.226:9901/tsfile/live/1024_1.m3u8
+梅州1,http://59.32.98.226:9901/tsfile/live/1025_1.m3u8
+梅州客家生活,http://59.32.98.226:9901/tsfile/live/1026_1.m3u8
+湛江新闻综合,http://59.32.98.226:9901/tsfile/live/1027_1.m3u8
+深圳娱乐,http://59.32.98.226:9901/tsfile/live/1028_1.m3u8
+测试频道,http://59.32.98.226:9901/tsfile/live/1030_1.m3u8
+广东少儿,http://59.32.98.226:9901/tsfile/live/1033_1.m3u8
+深圳少儿,http://59.32.98.226:9901/tsfile/live/1036_1.m3u8
+嘉佳卡通,http://59.32.98.226:9901/tsfile/live/1038_1.m3u8
+惠州2,http://59.32.98.226:9901/tsfile/live/1039_1.m3u8
+珠海2,http://59.32.98.226:9901/tsfile/live/1040_1.m3u8
+广东经济科教,http://59.32.98.226:9901/tsfile/live/1042_1.m3u8
+深圳电视剧,http://59.32.98.226:9901/tsfile/live/1043_1.m3u8
+惠州1,http://59.32.98.226:9901/tsfile/live/1044_1.m3u8
+汕尾新闻综合,http://59.32.98.226:9901/tsfile/live/1045_1.m3u8
+茶频道,http://59.32.98.226:9901/tsfile/live/1046_1.m3u8
+深圳龙岗,http://59.32.98.226:9901/tsfile/live/1054_1.m3u8
+深圳都市,http://59.32.98.226:9901/tsfile/live/1056_1.m3u8
+韶关绿色生活,http://59.32.98.226:9901/tsfile/live/1057_1.m3u8
+湛江公共,http://59.32.98.226:9901/tsfile/live/1058_1.m3u8
+深圳公共,http://59.32.98.226:9901/tsfile/live/1059_1.m3u8
+广州综合,http://59.32.98.226:9901/tsfile/live/1065_1.m3u8
+广州新闻,http://59.32.98.226:9901/tsfile/live/1066_1.m3u8
+广州影视,http://59.32.98.226:9901/tsfile/live/1067_1.m3u8
+广州法治,http://59.32.98.226:9901/tsfile/live/1068_1.m3u8
+广州竞赛,http://59.32.98.226:9901/tsfile/live/1069_1.m3u8
+深圳宝安,http://59.32.98.226:9901/tsfile/live/1070_1.m3u8
+深圳体育健康,http://59.32.98.226:9901/tsfile/live/1071_1.m3u8
+深圳财经生活,http://59.32.98.226:9901/tsfile/live/1072_1.m3u8
+深圳众创TV,http://59.32.98.226:9901/tsfile/live/1073_1.m3u8
 
 广东珠江,http://lu1.cc/itv/gdtv/gdtv.php?id=gdzj
 广东珠江,http://lu1.cc/itv/php/itouch.php?id=gdzj
